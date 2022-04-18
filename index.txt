@@ -1,7 +1,8 @@
-I love to eat bananas! 
+I love to eat bananas!! 
 
 * What we've seen so far *
 
 - git fork
 - git clone
 - git add . 
+- git commit -m "adding my commit message"
