@@ -1,0 +1,7 @@
+I love to eat bananas! 
+
+* What we've seen so far *
+
+- git fork
+- git clone
+- git add . 
