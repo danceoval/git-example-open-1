@@ -1,4 +1,4 @@
-I love to eat bananas!! 
+I love to eat dragonfruit!
 
 * What we've seen so far *
 
@@ -6,3 +6,4 @@ I love to eat bananas!!
 - git clone
 - git add . 
 - git commit -m "adding my commit message"
+- git push
